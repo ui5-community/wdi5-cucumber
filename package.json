@@ -1,0 +1,20 @@
+{
+  "name": "wdi5-cucumber",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [ "lib" ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@wdio/cucumber-framework": "^8.39.0",
+    "wdi5-fe-selectors": "github:ui5-community/wdi5-fe-selectors#add-pressTile-searchFor"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^10"
+  }
+}
