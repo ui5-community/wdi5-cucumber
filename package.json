@@ -11,10 +11,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@wdio/cucumber-framework": "^8.39.0",
     "wdi5-fe-selectors": "github:ui5-community/wdi5-fe-selectors#add-pressTile-searchFor"
   },
-  "devDependencies": {
+  "peerDependencies": {
+    "@wdio/cucumber-framework": "^8",
     "@cucumber/cucumber": "^10"
   }
 }
