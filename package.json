@@ -14,7 +14,6 @@
     "wdi5-fe-selectors": "github:ui5-community/wdi5-fe-selectors#add-pressTile-searchFor"
   },
   "peerDependencies": {
-    "@wdio/cucumber-framework": "^8",
-    "@cucumber/cucumber": "^10"
+    "@wdio/cucumber-framework": "^8"
   }
 }
